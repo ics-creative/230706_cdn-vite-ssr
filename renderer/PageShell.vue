@@ -6,7 +6,6 @@
       </a>
       <Link href="/">Home</Link>
       <Link href="/about">About</Link>
-      <Link href="/test">Test</Link>
     </div>
     <div class="content"><slot /></div>
   </div>
